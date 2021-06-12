@@ -1,0 +1,3 @@
+C:/Users/Julio Varela/Documents/Algoritmos_Deteccion_Correccion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Julio Varela/Documents/Algoritmos_Deteccion_Correccion/cmake-build-debug/CMakeFiles/Algoritmos_Deteccion_Correccion.dir
+C:/Users/Julio Varela/Documents/Algoritmos_Deteccion_Correccion/cmake-build-debug/CMakeFiles/edit_cache.dir
