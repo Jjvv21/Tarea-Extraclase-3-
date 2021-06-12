@@ -228,7 +228,7 @@ void checksum(){
 
 
             }
-            //printf("Wrong input strings");
+            //printf("Entrada erronea de strings");
         }
     }
 }
